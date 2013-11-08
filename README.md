@@ -1,4 +1,4 @@
-knack
-=====
+lowgrammer
+==========
 
-Home school application written in Node.js
+Node.js platform for educating kids
